@@ -1,4 +1,4 @@
-# Matriz-Factorization
+# Matrix-Factorization
 Program is implemented on given matrix.txt consists of rating created randomly from 0-5.
 commands to execute:
 
